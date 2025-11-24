@@ -1,0 +1,17 @@
+url,label
+http://127.0.0.1:8080/phishing_sites/fake_prize_claim.html,1
+http://127.0.0.1:8080/legitimate_sites/our_services.html,0
+http://127.0.0.1:8080/phishing_sites/fake_email_login.html,1
+http://127.0.0.1:8080/phishing_sites/fake_software_update.html,1
+http://127.0.0.1:8080/phishing_sites/fake_bank_login.html,1
+http://127.0.0.1:8080/phishing_sites/another_phish.html,1
+http://127.0.0.1:8080/phishing_sites/fake_account_suspended.html,1
+http://127.0.0.1:8080/legitimate_sites/contact_page.html,0
+http://127.0.0.1:8080/legitimate_sites/product_description.html,0
+http://127.0.0.1:8080/legitimate_sites/faq_page.html,0
+http://127.0.0.1:8080/phishing_sites/fake_social_login.html,1
+http://127.0.0.1:8080/legitimate_sites/about_us.html,0
+http://127.0.0.1:8080/legitimate_sites/privacy_policy_example.html,0
+http://127.0.0.1:8080/phishing_sites/fake_shipping_track.html,1
+http://127.0.0.1:8080/legitimate_sites/safe_info_page.html,0
+http://127.0.0.1:8080/legitimate_sites/simple_blog_post.html,0
